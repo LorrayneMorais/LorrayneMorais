@@ -19,8 +19,8 @@ Sou um **desenvolvedor fullstack** apaixonado por transformar ideias em realidad
 
 Atualmente, estou focado em:
 
-- **Aprender Golang**: Aprofundando meus conhecimentos em programação de sistemas e backend.
-- **MongoDB**: Dominando bancos de dados NoSQL para desenvolver aplicações escaláveis.
+- **Java**: Aprofundando meus conhecimentos em programação de sistemas e backend.
+- **DBeaver**: Dominando bancos de dados NoSQL para desenvolver aplicações escaláveis.
 - **React**: Criando interfaces dinâmicas e responsivas para uma melhor experiência do usuário.
 
 ## GitHub Stats ⚡
