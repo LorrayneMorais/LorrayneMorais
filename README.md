@@ -2,7 +2,7 @@
 
 ## 👤 Sobre mim
 
-Sou um **desenvolvedor fullstack** apaixonado por transformar ideias em realidade. Atualmente, estou aprofundando meus conhecimentos em **Golang, MongoDB e React** enquanto estudo na **[Nome da Universidade]**. Sempre em busca de novos desafios, adoro aprender novas tecnologias e aplicar boas práticas de desenvolvimento.
+Sou um **desenvolvedor fullstack** apaixonado por transformar ideias em realidade. Atualmente, estou aprofundando meus conhecimentos em **Java, JavaScript e React** enquanto estudo no **SerraTec**. Sempre em busca de novos desafios, adoro aprender novas tecnologias e aplicar boas práticas de desenvolvimento.
 
 ## 📈 Tecnologias e Ferramentas
 
