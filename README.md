@@ -41,8 +41,6 @@ Vamos nos conectar! Você pode me encontrar aqui:
 
 Estou sempre aberto a novas oportunidades e colaborações! Sinta-se à vontade para entrar em contato.
 
-## 📚 Aprendizado Pessoal
 
-Atualmente, estou lendo [Título do Livro] e assistindo [Título do Curso ou Série] para aprimorar ainda mais minhas habilidades.
 
 
