@@ -2,16 +2,13 @@
 
 ## 👩‍💻 Sobre mim
 
-Sou profissional de tecnologia com formação prática em **Desenvolvimento de Software, Infraestrutura e Cibersegurança**.
+Sou apaixonada por tecnologia e movida por curiosidade técnica.
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas** e concluí duas residências em TIC pelo **Serratec & SENAI**, com foco em desenvolvimento fullstack, redes e segurança da informação.
+Tenho formação prática em Desenvolvimento de Software, Infraestrutura e Cibersegurança, com duas residências em TIC pelo Serratec & SENAI. Minha jornada passa por backend, frontend, redes, monitoramento e resposta a incidentes.
 
-Também atuei com **Treinamento e Avaliação de Modelos de IA (LLMs)**, trabalhando com análise de qualidade, engenharia de prompts e melhoria contínua de respostas baseadas em IA.
+Também atuei na avaliação de modelos de IA (LLMs), trabalhando com análise crítica de respostas e engenharia de prompts.
 
-Meu objetivo é evoluir como profissional com visão integrada entre **código, infraestrutura e segurança**.
-
----
-
+Gosto de enxergar tecnologia como um ecossistema completo: código precisa funcionar, mas também precisa ser seguro, escalável e bem estruturado. É nessa interseção que quero crescer.
 ## 🛠️ Stack Técnica
 
 ### 💻 Desenvolvimento
@@ -25,7 +22,6 @@ Meu objetivo é evoluir como profissional com visão integrada entre **código, 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/PostgreSQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
 
 ### 🌐 Infraestrutura & Cibersegurança
 
@@ -40,7 +36,6 @@ Meu objetivo é evoluir como profissional com visão integrada entre **código, 
 - Investigação e resposta a incidentes  
 - Conceitos de Open XDR  
 
----
 
 ### 🤖 Inteligência Artificial
 
@@ -49,20 +44,17 @@ Meu objetivo é evoluir como profissional com visão integrada entre **código, 
 - Análise crítica de resultados  
 - Contato com conceitos de Processamento de Linguagem Natural (PLN)  
 
----
 
 ## 📊 GitHub Stats
 
 ![LorrayneMorais](https://github-readme-stats.vercel.app/api?username=lorraynemorais&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorraynemorais&hide_progress=true&theme=radical)
 
----
 
 ## 🎯 Objetivo Atual
 
 Atuar na área de tecnologia com foco em desenvolvimento e segurança, aplicando visão integrada entre software, infraestrutura e proteção de ambientes.
 
----
 
 ## 📫 Contato
 
