@@ -45,12 +45,6 @@ Gosto de enxergar tecnologia como um ecossistema completo: código precisa funci
 - Contato com conceitos de Processamento de Linguagem Natural (PLN)  
 
 
-## 📊 GitHub Stats
-
-![LorrayneMorais](https://github-readme-stats.vercel.app/api?username=lorraynemorais&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorraynemorais&hide_progress=true&theme=radical)
-
-
 ## 🎯 Objetivo Atual
 
 Atuar na área de tecnologia com foco em desenvolvimento e segurança, aplicando visão integrada entre software, infraestrutura e proteção de ambientes.
